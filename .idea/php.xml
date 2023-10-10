@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="codeSize" value="true" />
+    <option name="controversial" value="true" />
+    <option name="design" value="true" />
+    <option name="naming" value="true" />
+    <option name="unusedCode" value="true" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="codingStandard" value="Custom" />
+    <option name="rulesetPath" value="$USER_HOME$/git/uptodown.com/.php-cs-fixer/php_cs_config.php_cs" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="autoload" value="$USER_HOME$/git/uptodown.com/vendor/autoload.php" />
+    <option name="config" value="$USER_HOME$/git/uptodown.com/.phpstan/phpstan.neon" />
+    <option name="level" value="2" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

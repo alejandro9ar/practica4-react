@@ -1,0 +1,61 @@
+/* member-table-styles.css */
+
+/* Estilos para MemberTable */
+.member-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.member-table th,
+.member-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center; /* Alinea el contenido al centro */
+}
+
+.member-table th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.member-table tbody tr:nth-child(even) {
+    background-color: #f0f0f0;
+}
+
+.member-table tbody tr:hover {
+    background-color: #e0e0e0;
+}
+
+/* member-table-row-styles.css */
+
+/* Estilos para MemberTableRow */
+.member-table-row {
+    transition: background-color 0.3s ease;
+    text-align: center; /* Alinea el contenido al centro */
+}
+
+.member-table-row:hover {
+    background-color: #f5f5f5;
+}
+
+.member-table-row td {
+    padding: 10px;
+    text-align: center; /* Alinea el contenido al centro */
+}
+
+.member-table-row img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.member-table-row a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.member-table-row a:hover {
+    text-decoration: underline;
+}

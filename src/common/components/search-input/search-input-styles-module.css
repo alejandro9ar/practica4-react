@@ -1,0 +1,11 @@
+/* SearchInput.css */
+.input-container {
+    width: 100%;
+    margin: 0;
+}
+
+.outlined {
+    border: 1px solid #000;
+    border-radius: 4px;
+    padding: 8px;
+}
